@@ -23,7 +23,7 @@
 			"rules": {
 				"prefer-regex-literals": ["off"],
 				"class-methods-use-this": ["off"],
-				"import/exports-last": ["error"],
+				"import/exports-last": ["off"],
 				"import/first": ["error"],
 				"import/newline-after-import": ["error"],
 				"import/prefer-default-export": ["off"],
